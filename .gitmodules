@@ -2,7 +2,7 @@
 	path = borbolya-api
 	url = https://github.com/zsoltfazekas93/borbolya-api.git
 [submodule "borbolya-storefront"]
-	path = saleor-storefront
+	path = borbolya-storefront
 	url = https://github.com/zsoltfazekas93/borbolya-storefront.git
 [submodule "borbolya-dashboard"]
 	path = borbolya-dashboard
